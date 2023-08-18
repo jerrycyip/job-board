@@ -1,6 +1,6 @@
 # GraphQL Job Board
 
-Sample job board app developed in the [GraphQL by Example course](https://www.udemy.com/course/graphql-by-example/) using Node.js, Express, Apollo Server, React, and Apollo Client.
+Proof of Concept job board app.  This app is modeled after a project in the [GraphQL by Example course](https://www.udemy.com/course/graphql-by-example/) using Node.js, Express, Apollo Server, React, and Apollo Client.
 
 # Demo
 
