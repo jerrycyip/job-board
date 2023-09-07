@@ -1,6 +1,6 @@
 # GraphQL Job Board
 
-Proof of Concept job board app for implementing GraphQL with React (amongst other tools), with the intention of using similar technology and design patterns for real world projects.  This app employs Node.js, Express, Apollo Server, React, and Apollo Client.
+Proof of Concept job board app for implementing GraphQL with React (amongst other tools), with the intention of using similar technology and design patterns for real world projects.  This app is developed using Node.js, Express, Apollo Server, React, and Apollo Client.
 
 # Demo
 
